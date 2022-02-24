@@ -1,4 +1,4 @@
-# Standard_vs_KDE_histograms
+# Standard_vs_KDE_histogram
 Traditional histograms vs Kernel Density Estimators (KDEs).
 
 ## **What is this repository for?**
@@ -10,7 +10,7 @@ In this script, I compare the properties of traditional histograms to those from
 No installation is needed. Simply cloning the GitHub repository and importing the script is enough. Hence, 
 
 ```
-    git clone https://github.com/YohanaHerrero/Standard_vs_KDE_histograms.git
+    git clone https://github.com/YohanaHerrero/Standard_vs_KDE_histogram.git
 ```
 
 The code is written in Python and uses a range of default packages included in standard installations of Python:
