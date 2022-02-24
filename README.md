@@ -3,7 +3,7 @@ Traditional histograms vs Kernel Density Estimators (KDEs).
 
 ## **What is this repository for?**
 
-In this script, I compare the properties of traditional histograms to those from KDEs. I present my own function to build a KDE-histogram with a 1D gaussian as kernel and show how these techniques can be used to draw information from data. Besides the different techniques, I also record some other plotting routines. The code was developed to analyze spectroscopic data e.g. spectroscopic redshifts from MUSE data. 
+In this script, I compare the properties of traditional histograms to those from KDEs. I present my own function to build a KDE-histogram with a 1D gaussian as kernel and show how these techniques can be used to draw information from data. Besides the different techniques, I also record some other plotting routines e.g. scatter, plot, spine, color bars, etc. The code was developed to analyze spectroscopic data e.g. spectroscopic redshifts from MUSE data. 
 
 ## **Installing QtCounterpart**
 
@@ -20,7 +20,6 @@ The code is written in Python and uses a range of default packages included in s
 - numpy  
 - matplotlib
 - math
-- scipy 
 - seaborn
 
 ### **Special packages:**
