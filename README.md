@@ -5,7 +5,7 @@ Traditional histograms vs Kernel Density Estimators (KDEs).
 
 In this script, I compare the properties of traditional histograms to those from KDEs. I present my own function to build a KDE-histogram with a 1D gaussian as kernel and show how these techniques can be used to draw information from data. Besides the different techniques, I also record some other plotting routines e.g. scatter, plot, spine, color bars, etc. The code was developed to analyze spectroscopic data e.g. spectroscopic redshifts from MUSE data. 
 
-## **Installing QtCounterpart**
+## **Installing Standard_vs_KDE_histogram**
 
 No installation is needed. Simply cloning the GitHub repository and importing the script is enough. Hence, 
 
